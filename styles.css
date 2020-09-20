@@ -1,0 +1,47 @@
+ body {
+    background-color: #EAF6F6;
+}
+
+hr {
+    border: 5px  royalblue;
+    border-style: none none dotted; 
+    background-color:#EAF6F6;
+}
+
+h2 {
+    color: #66BFBF;
+
+
+}
+h1 {
+    color: #66BFBF;
+
+
+}
+h3 {
+    color: royalblue;
+
+
+}
+
+li {
+    color: royalblue;
+}
+
+
+p {
+    color: royalblue;
+}
+
+thead {
+    color:  royalblue;
+}
+
+th {
+    color: #66BFBF
+}
+
+h4 {
+
+    color: #66BFBF
+}

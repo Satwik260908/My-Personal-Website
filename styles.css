@@ -28,10 +28,36 @@ li {
     color: royalblue;
 }
 
+tr:hover {
+    
+    background-color: 		#DCDCDC;
+
+}
+
+.skills:hover {
+
+    background-color: #EAF6F6;
+   
+}
+
+.bio:hover {
+
+    background-color: #EAF6F6;
+   
+}
 
 p {
     color: royalblue;
 }
+
+.tablerow {
+    color: royalblue;
+}
+
+.tablerow:hover {
+    background-color: #EAF6F6;
+}
+
 
 thead {
     color:  royalblue;
@@ -40,6 +66,12 @@ thead {
 th {
     color: #66BFBF
 }
+
+
+.theadth:hover {
+    background-color: #EAF6F6;
+}
+
 
 h4 {
 
